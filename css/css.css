@@ -1,0 +1,98 @@
+.main{ 
+    margin: 0 auto;
+    width: 960px;
+    padding: 0 10px;
+    border: 1px solid #E7E7E7;
+    overflow: hidden;
+}
+.title{
+    height: 60px;
+    background: #3299CC;
+    width: 960px;
+}
+.title h2{
+   margin: 0 20px;
+    line-height: 60px;
+    color: white;
+}
+.nav{
+    overflow: hidden;
+}
+.nav ul{
+    margin-top: 5px
+}
+.nav ul li{
+    padding: 5px 30px;
+    float: left;
+    color: #7F7F7F;
+}
+.main_left{
+    margin-top: 30px;
+}
+.public h2{
+    color: white;
+    width: 280px;
+    height: 20px;
+    line-height: 20px;
+    padding: 10px;
+    background: #3299CC;
+    font-weight: 100;
+}
+.public ul{
+    margin-top: 10px;
+}
+.public ul li{
+    margin: 10px 0;
+}
+.module01 ul li:first-child{
+    color: red
+}
+.footer{
+    overflow: hidden;
+    color: #999999;
+    margin-top: 15px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: #DDDDDD;
+}
+.main_left{
+    float: left;
+}
+.main_right{
+    float: right;
+    width: 68%;
+    margin-top: 25px;
+}
+.main_right h1{
+    font-weight: 100;
+    padding-bottom:10px; 
+    border-bottom: 2px solid #AAAAAA;
+}
+.button button{
+    border: 1px solid #DFDFDF;
+    padding:5px 15px; 
+    background: #F3F3F3;
+    margin-top: 10px;
+}
+.button{
+    padding-bottom:10px; 
+    border-bottom: 4px solid #AAAAAA;
+}
+.moudel_text{
+    margin: 10px 0;
+    font-weight: 100;
+}
+.moudel_text p{
+  margin: 15px 0;
+}
+.moudel_text{
+    width: 100%;
+    border-bottom: 1px dashed #CCCCCC;
+}
+.text_4{
+    border-bottom:1px solid #AAAAAA;
+}
+.main_right a:link,a:visited{text-decoration:underline;color:red;}
+.main_right a:hover,a:active{text-decoration:underline;color:#f60;}
